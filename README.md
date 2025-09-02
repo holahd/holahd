@@ -1,4 +1,4 @@
-👋 Hola, soy @holahd
+👋 Hola, soy Xavier Vera
 
 💻 Tecnólogo Superior en Desarrollo de Software.
 🎯 Interesado en el desarrollo web y en la creación de proyectos prácticos que resuelvan problemas reales.
